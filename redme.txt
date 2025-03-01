@@ -1,0 +1,4 @@
+This system provides a platform with user authentication, feed and post management, 
+and an admin panel for managing user accounts. It is designed for simplicity and efficiency, 
+offering a secure and easy-to-use experience 
+for both regular users and admins.
